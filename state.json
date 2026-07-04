@@ -1,9 +1,29 @@
 {
-  "last_update_id": 532672278,
+  "last_update_id": 532672279,
   "chats": {
     "270303327": {
-      "channels": {},
-      "seen": {}
+      "channels": {
+        "UC_5Sn44yAfb9TiKZsjcZ-Qg": "SinShin - YouTube"
+      },
+      "seen": {
+        "UC_5Sn44yAfb9TiKZsjcZ-Qg": [
+          "LpTN3gKzxfc",
+          "1bQUU90s4aQ",
+          "csdn6j_FiQE",
+          "j-t2xQVMeIY",
+          "ZAdCqWJEMyE",
+          "-NPz19sqtgw",
+          "NQ7Myz8VlCo",
+          "ocTR5-yngv0",
+          "gOI9k1_ESDU",
+          "GMz7tL7hpFg",
+          "DIFRm5HPpSo",
+          "LrrBtqXTcfs",
+          "Wqr_tR53i-0",
+          "40Q7yE1l3Rw",
+          "O3KeJ9RFK1o"
+        ]
+      }
     },
     "5518557464": {
       "channels": {},
