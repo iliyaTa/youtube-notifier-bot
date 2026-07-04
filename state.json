@@ -1,7 +1,11 @@
 {
-  "last_update_id": 532672275,
+  "last_update_id": 532672276,
   "chats": {
     "270303327": {
+      "channels": {},
+      "seen": {}
+    },
+    "5518557464": {
       "channels": {},
       "seen": {}
     }
