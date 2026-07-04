@@ -23,11 +23,13 @@
           "Wqr_tR53i-0",
           "40Q7yE1l3Rw"
         ]
-      }
+      },
+      "filters": {}
     },
     "5518557464": {
       "channels": {},
-      "seen": {}
+      "seen": {},
+      "filters": {}
     },
     "1990980273": {
       "channels": {
@@ -105,7 +107,8 @@
           "2KhoOtR3tvI",
           "zKinhEj4_GE"
         ]
-      }
+      },
+      "filters": {}
     }
   }
 }
