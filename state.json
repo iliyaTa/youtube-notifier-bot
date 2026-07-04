@@ -1,5 +1,5 @@
 {
-  "last_update_id": 532672284,
+  "last_update_id": 532672285,
   "chats": {
     "270303327": {
       "channels": {
@@ -30,8 +30,28 @@
       "seen": {}
     },
     "1990980273": {
-      "channels": {},
-      "seen": {}
+      "channels": {
+        "UCtEh9AtEROeScVLmfOMy9WQ": "Havadary - YouTube"
+      },
+      "seen": {
+        "UCtEh9AtEROeScVLmfOMy9WQ": [
+          "ft98H09p-Gk",
+          "M1uPVitAsaY",
+          "REot32XUphw",
+          "DXaAY-8s6gQ",
+          "8kNz9uDn2qg",
+          "yENWOt3aFVs",
+          "9h--kQ5uYKU",
+          "gSESeq5-jH0",
+          "beZIGqY8HBE",
+          "kJk8MqqAwd4",
+          "ngC5wKV0hXw",
+          "NK1YjUos2co",
+          "xhejsoEdHZ8",
+          "xL0VBIx-ns0",
+          "dESe_e4tMjs"
+        ]
+      }
     }
   }
 }
