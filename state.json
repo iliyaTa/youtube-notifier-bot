@@ -1,5 +1,5 @@
 {
-  "last_update_id": 532672285,
+  "last_update_id": 532672287,
   "chats": {
     "270303327": {
       "channels": {
@@ -7,7 +7,6 @@
       },
       "seen": {
         "UC_5Sn44yAfb9TiKZsjcZ-Qg": [
-          "4ShPYQOuW3s",
           "LpTN3gKzxfc",
           "1bQUU90s4aQ",
           "csdn6j_FiQE",
@@ -21,7 +20,8 @@
           "DIFRm5HPpSo",
           "LrrBtqXTcfs",
           "Wqr_tR53i-0",
-          "40Q7yE1l3Rw"
+          "40Q7yE1l3Rw",
+          "O3KeJ9RFK1o"
         ]
       }
     },
@@ -31,7 +31,9 @@
     },
     "1990980273": {
       "channels": {
-        "UCtEh9AtEROeScVLmfOMy9WQ": "Havadary - YouTube"
+        "UCtEh9AtEROeScVLmfOMy9WQ": "Havadary - YouTube",
+        "UCeBENLXYdQmuEhlr2wgNBKg": " FOOT NEWS - YouTube",
+        "UCue92_HyjMICeSgYFCZtXvA": "BadFootTv - YouTube"
       },
       "seen": {
         "UCtEh9AtEROeScVLmfOMy9WQ": [
@@ -50,6 +52,40 @@
           "xhejsoEdHZ8",
           "xL0VBIx-ns0",
           "dESe_e4tMjs"
+        ],
+        "UCeBENLXYdQmuEhlr2wgNBKg": [
+          "jk8A9PQj_M4",
+          "Lmt_Z8Uz7ws",
+          "MGoYt5XCv9A",
+          "sDm9LWXT5N4",
+          "Mj-UYXCcnQ8",
+          "Vmp738G6vr8",
+          "m1Xck8ZfTkw",
+          "LFtRUzTHFtY",
+          "3ee6jnYts-U",
+          "_E4j7vIRrmc",
+          "iT00nHcHpRE",
+          "_f8B8KOWSXw",
+          "0SWWjeJHVb0",
+          "LBmpHmkjWAM",
+          "6rUzsdn9aGA"
+        ],
+        "UCue92_HyjMICeSgYFCZtXvA": [
+          "YaAHWpJKd50",
+          "-3PNRrTdnXE",
+          "DM7UBFnXQ-U",
+          "qpcBa-iArsg",
+          "dSbLn8fZWJU",
+          "iSbAO1F0T84",
+          "9N8DsoRbAxg",
+          "Xo4riLuugzc",
+          "TGIRbZbR8Ug",
+          "56_u7PQulRk",
+          "Tq05HZ8PMaM",
+          "qJHt61xMTiA",
+          "kyewhok-s8Y",
+          "pjJgtJpedQQ",
+          "MEb0AE30tpo"
         ]
       }
     }
