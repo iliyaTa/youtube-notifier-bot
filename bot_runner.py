@@ -304,10 +304,17 @@ def check_new_videos(state):
                 elif mode == "videos":
                     to_send = [v for v in new_videos if not v["is_short"]]
 
-                for v in reversed(to_send):
+                # محافظ: اگه به هر دلیلی تعداد زیادی ویدیو یهو "جدید" تشخیص داده شد
+                # (مثلا باگ یا ریست شدن state)، فقط تازه‌ترین‌ها رو می‌فرستیم
+                # تا سیل پیام به کاربر نریزیم.
+                MAX_PER_RUN = 10
+                capped = to_send[:MAX_PER_RUN]
+
+                for v in reversed(capped):
                     kind = "🩳 شورت" if v["is_short"] else "🎬 ویدیو"
                     caption = f"{kind} جدید از «{channel_name}»\n\n{v['title']}\n{v['link']}"
                     send_photo(chat_id, thumbnail_url(v["id"]), caption)
+                    time.sleep(0.4)  # جلوگیری از rate limit تلگرام
 
                 # صرف نظر از فیلتر، همه‌ی آیدی‌های جدید رو seen ثبت می‌کنیم
                 # تا بعداً با تغییر فیلتر دوباره فرستاده نشن
