@@ -1,5 +1,5 @@
 {
-  "last_update_id": 532672301,
+  "last_update_id": 532672302,
   "chats": {
     "270303327": {
       "channels": {},
@@ -916,6 +916,11 @@
           "tPrxXsD-e0s"
         ]
       },
+      "filters": {}
+    },
+    "7761799799": {
+      "channels": {},
+      "seen": {},
       "filters": {}
     }
   }
